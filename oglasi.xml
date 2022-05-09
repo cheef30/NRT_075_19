@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oglasi>
+    <oglas>
+        <kategorija tip="Sto" />
+        <datumIsteka>23.09.2022</datumIsteka>
+        <cena valuta="RSD">260.000</cena>
+        <tekst>Prodajem bilijar snuker 12-tica</tekst>
+        <oznaka atribut="marka">Seiko</oznaka>
+        <oznaka atribut="velicina">12</oznaka>
+        <email tip="email">stefanstevicoz30@gmail.com</email>
+    </oglas>
+</oglasi>
